@@ -3,3 +3,20 @@ Extension we need to connect with github are in follow
 Git pull request and issues
 Git codespaces
 Github repositories
+
+
+frontend 
+=========
+
+HTML - raw stucture - static
+CSS - look and feel (design)- static
+Bootstarp- framework
+javascript- dynamic
+
+fronend 2
+=--------=\\\
+
+react- dynamic in ntute
+
+MERN
+Mongo DB, express , reaca and nodejs
